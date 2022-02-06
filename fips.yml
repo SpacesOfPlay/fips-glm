@@ -4,4 +4,3 @@
 ---
 exports :
     header-dirs : [ glm ]
-    defines :
